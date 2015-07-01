@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="cp1250"?>
+<additives version="1.0">
+<string id="100" name="kurkumina">Barwnik naturalny.</string>
+<string id="101" name="ryboflawina">Barwnik naturalny.</string>
+<string id="102" name="tartazyna" danger="true">U astmatyków może powodować reakcje alergiczne, bezsenność, depresję, nadpobudliwość i dekoncentrację. W połączeniu z benzoesanami jest podejrzewany o wywoływanie ADHD u dzieci.</string>
+<string id="103" name="rezorcyna" danger="true">Niedopuszczany w produkcji żywności na terenie Unii.</string>
+<string id="104" name="żółcień chinolinowa" danger="true"> Powoduje wysypkę, zaczerwienienie, nadpobudliwość u dzieci, podejrzewany o wywoływanie nowotworów wątroby. Niebezpieczny dla astmatyków i osób uczulonych na aspirynę.</string>
+<string id="105" name="żółcień trwała AB" danger="true">Niedopuszczany w produkcji żywności na terenie Unii i USA, szkodliwy.</string>
+<string id="106" name="ryboflawina (sól sodowa)" danger="true">Barwnik naturalny. Nie znajduje się na liście dodatków do żywności FSA (Food Standards Agency).</string>
+<string id="107" name="Żółcień 2G" danger="true">U astmatyków może powodować reakcje alergiczne, u dzieci nadpobudliwość. Stosowanie tego barwnika jest zabronione w Austrii, Japonii, Norwegii, Szwecji, Szwajcarii i USA, oraz wszystkich krajach Unii za wyjątkiem Wielkiej Brytanii.</string>
+<string id="110" name="żółć pomarańczowa" danger="true">Powoduje nasilenie objawów astmy, podejrzewany o wywoływanie nowotworów wątroby i nadpobudliwości u dzieci.</string>
+<string id="111" name="oranż GGN" danger="true">Wycofany z użycia do celów spożywczych z powodu silnie toksycznych właściwości.</string>
+<string id="120" name="kwas karminowy,karmina">Barwnik pozyskwany ze zmielonych czerwców kaktusowych (owady), przez co może być nieodpowiedni dla wegetarian. Dopuszczalna dawka dzienna to 5mg na kilogram masy ciała.</string>
+<string id="121" name="lakmus" danger="true">Wskaźnik pH, naturalnie występujący w niektórych gatunkach porostów. Nie znajduje się na liście zatwierdzonych dodatków do żywności FSA (Food Standards Agency).</string>
+<string id="122" name="azorubina" danger="true">Niebezpieczny dla astmatyków, może powodować nadpobudliwość.</string>
+<string id="123" name="amarant" danger="true">Niebezpieczny dla astmatyków, ma działanie mutogenne, podejrzewany o działanie rakotwórcze.</string>
+<string id="124" name="czerwień koszenilowa" danger="true">Niebezpieczny dla astmatyków, może powodować nadpobudliwość u dzieci.</string>
+<string id="125" name="szkarłat" danger="true">Organiczny spożywczy barwnik, w USA dozwolony tylko do użytku zewnętrznego.</string>
+<string id="126" name="Pąs 6R" danger="true">Organiczy spozywczy barwnik, nie znajduje się na liście zatwierdzonych dodatków FSA (Food Standards Agency).</string>
+<string id="127" name="erytrozyna" danger="true">Dekoncentracja, trudności w nauce, niebezpieczny dla osób z chorą tarczycą.</string>
+<string id="128" name="Czerwień 2G" danger="true">Właściwości rakotwórcze, może wywoływać anemie.</string>
+<string id="129" name="czerwień allura AC">Dopuszczalne do użycia przez UE, lecz zakazane w Danii, Belgii, Szwajcarii, Francji i Szwecji.</string>
+<string id="130" name="błękit indantrenowy" danger="true">Nie dopuszczono do użycia na terenie Unii Europejskiej.</string>
+<string id="131" name="błękit patentowy" danger="true">Niebezpieczny dla alergików, powoduje uwalnianie histaminy.</string>
+<string id="132" name="indygotyn" danger="true">Reakcje alergiczne, nadpobudliwość, podejrzewany o działanie rakotwórcze.</string>
+<string id="133" name="błękit brylantowy">Syntetyczny, zielonkawoniebieski barwnik. Zakazany w niektórych krajach. Dopuszczalne dzienne spożycie wynosi 12,5 mg na kilogram ciała.</string>
+<string id="140" name="chlorofil A">Naturalny zielony barwnik. Został uznany za nieszkodliwy w zastosowaniach spożywczych.</string>
+<string id="141" name="chlorofilina">Organiczny barwnik, pochodna chlorofilu. Stosowany w produkcji żywności oraz w medycynie niekonwencjonalnej (wewnętrznie i zewnętrznie).</string>
+<string id="142" name="zieleń" danger="true">Reakcje alergiczne, astmatyczne.</string>
+<string id="143" name="zieleń FCF" danger="true">Zabroniony w produkcji żywności, właściwości mutagenne.</string>
+<string id="150" name="karmel" danger="true">Problemy żołądkowo-jelitowe, może prowadzić do nadpobudliwości.</string>
+<string id="151" name="czerń brylantowa" danger="true">Niebezpieczny dla osób nadwrażliwych na salicylany, może być przekształcony w jelicie do szkodliwych związków.</string>
+<string id="152" name="czerń 7984" danger="true">Od 1984 nie jest dodawany do żywności na terenie EU i USA, zakazany w Japonii i Australii. Stosowany w przemyśle kosmetycznym. Może nasilać objawy astmy, powoduje reakcje alergiczne.</string>
+<string id="153" name="węgiel drzewny (roślinny), czerń węglowa">Sprasowany w formie tabletek stosowany w leczeniu zatruć, biegunek, niestrawności czy wzdęć. W przemyśle spożywczym stosowany jako barwnik.</string>
+<string id="154" name="brąz FK" danger="true">Zakazany w Australii, Austrii, Kanadzie, Finlandii, Irlandii, Nowej Zelandii, Japonii, Szwajcarii, Szwecji, USA, Rosji. Spożywanie dużych ilości może powodować odkładanie się w nerkach.</string>
+<string id="155" name="brąz HT" danger="true">Zakazany w Australii, Austrii, Belgii, Danii, Francji, Niemczech, Norwegii, Szwecji oraz USA. Dopuszczalne dzienne spożycie wynosi 1,5 mg/kg ciała. Nasilanie objawów astmy, nadpobudliwość u dzieci, możliwe wywoływanie poronień. Możliwe działanie rakotwórcze.</string>
+<string id="160" name="karotenoidy (a-f)">Karoteny (160a), annato (160b), kapsaicyna (160c), likopen (160d), beta-Apo-8'-karotenal (160e), ester etylowy kwasu beta-apo-8'-karotenowego (160f). Naturalne barwniki pomarańczowe, nieszkodliwe w zastosowaniach spożywczych. Niektóre związki mają zastosowanie w zapobieganiu i leczeniu nowotworów.</string>
+<string id="161" name="ksantofile (a-j)">Flawoksantyna (161a), luteina (161b), kryptoksantyna (161c), rubiksantyna (161d), wiolaksantyna (161e), rodoksantyna (161f), kantaksantyna (161g), zeaksantyna (161h), cytranaksantyna (161i), astaksantyna (161j). Naturalne barwniki żółte, stosowane w produkcji żywności.</string>
+<string id="162" name="betanina, czerwień buraczana">Naturalny barwnik otrzymywany z buraka ćwikłowego.</string>
+<string id="163" name="antocyjany, antocyjaniny">Czerwono-fioletowe barwniki spożywcze pochodzenia roślinnego.</string>
+<string id="170" name="węglan wapnia">Biały barwnik spożywczy, nieszkodliwy w małych ilościach, stosowany w produkcji pieczywa, wyrobów cukierniczych.</string>
+<string id="171" name="tlenek tytanu IV">Barwnik spożywczy.</string>
+<string id="172" name="tlenki żelaza">Barwniki spożywcze, zatwierdzone przez FSA (Food Standards Agency).</string>
+<string id="173" name="aluminium" danger="true">Może powodować chorobę Alzheimera, choroby nerek i płuc, toksyczny dla układu  krwionośnego, rozrodczego i nerwowego.</string>
+<string id="174" name="srebro">Zatwierdzony przez FSA jako dodatek do żywności. Wykazuje działanie bakteriobójcze.</string>
+<string id="175" name="złoto">Złoto jest obojętne chemicznie w organiźmie, nie wpływa na smak potraw oraz nie ma żadnych własności odżywczych.</string>
+<string id="180" name="litorlubina" danger="true">Reakcje alergiczne, nadpobudliwość, bezsenność, pokrzywka, katar sienny, problemy żołątkowo-jelitowe.</string>
+<string id="181" name="taniny" danger="true">Nie znajduje się na liście dodatków do żywności ogłoszonej przez FSA (Food Standards Agency).</string>
+<string id="200" name="kwas sorbinowy">Stosowany jako środek utrzymujący wilgotność (do produkcji serów, sałatek, lemoniady, wina). Hamuje rozwój pleśni i drożdży. Dopuszczalne dzienne spożycie to 25mg / kg masy ciała.</string>
+<string id="202" name="sorbinian potasu">Stosowany jako środek konserwujący (do produkcji serów, sałatek, lemoniady, wina oraz kosmetyków). Dopuszczalne dzienne spożycie to 25mg / kg masy ciała. U niektórych osób związek ten może wywoływać kontaktową pokrzywkę, reakcje alergiczne, podrażnienia skóry, astmę oraz problemy behawioralne.</string>
+<string id="203" name="sorbinian wapnia">Stosowany jako środek konserwujący (do pieczywa, serów, przetworów mlecznych, kosmetyków). Dopuszczalne dzienne spożycie to 25mg / kg masy ciała. U niektórych osób związek ten może wywoływać kontaktową pokrzywkę, reakcje alergiczne, podrażnienia skóry, astmę oraz problemy behawioralne.</string>
+<string id="210,211,212,213" name="Kwas benzoesowy i benzoesany" danger="true">reakcje alergiczne, wysypki, podrażnia śluzówkę żołądka i jelit, podejrzewany o działanie rakotwórcze, niebezpieczny dla osób uczulonych na aspirynę.</string>
+<string id="214" name="ester etylowy kwasu p-hydroksybenzoesowego" danger="true">Reakcje alergiczne, podejrzewany o działanie odurzające i wywoływanie skurczów mięśni.</string>
+<string id="216,217" name="paraben propylu" danger="true">Konserwant w kosmetykach i lekach. Stosowany w produkcji kremów, szamponów, płynów do kąpieli. Prawdopodobne działanie kancerogenne (rak piersi). Wycofany z listy dopuszczalnych dodatków w 2006 roku.</string>
+<string id="220,221,222,223,224,226,227,228" name="dwutlenek siarki i siarczany" danger="true">Powodują stratę witaminy B12, reakcje alergiczne, nudności, bóle głowy, zakłócają pracę jelit, podejrzewane o wywoływanie ataków astmy.</string>
+<string id="230" name="bifenyl" danger="true">Reakcje alergiczne, zakłócenie czynności skóry.</string>
+<string id="231" name="ortofenylofenol" danger="true">Reakcje alergiczne, zakłócenie czynności skóry.</string>
+<string id="232" name="ortofenylofenolan sodu" danger="true">Reakcje alergiczne, zakłócenie czynności skóry.</string>
+<string id="234" name="nizyna">Działanie antybakteryjne. Zapobiega fermentacji masłowej przy produkcji serów.</string>
+<string id="235" name="natamycyna">Działanie przeciwgrzybiczne. Duże dawki mogą spowodować nudności.</string>
+<string id="239" name="urotropina">W lecznictwie stosuje się ją jako środek bakteriobójczy, w celu odkażania dróg moczowych. W produkcji żywności stosowana jako konserwant.</string>
+<string id="242" name="pirowęglan dimetylu">Stosowany w celach bakteriobójczych i grzybobójczyc. Nie jest klasyfikowany jako substancja niebezpieczna w Unii Europejskiej.</string>
+<string id="249" name="azotyn III potasu" danger="true">Powstawanie nowotworów, astmy, zapalenie nerek, zawroty głowy, problemy behawioralne, szkodzą przy nadciśnieniu.</string>
+<string id="250" name="azotyn III sodu" danger="true">Powstawanie nowotworów, astmy, zapalenie nerek, zawroty głowy, problemy behawioralne, szkodzą przy nadciśnieniu, utrudnia transport tlenu przez krew.</string>
+<string id="251" name="azotan V sodu" danger="true">Duszności, sinienie powłok skórnych, astmę, zapalenie nerek, zawroty głowy, problemy behawioralne, mogą przekształcić się w azotyny, niebezpieczne przy nadciśnieniu.</string>
+<string id="252" name="azotan V potas" danger="true">Duszności, sinienie powłok skórnych, astmę, zapalenie nerek, zawroty głowy, problemy behawioralne, mogą przekształcić się w azotyny, niebezpieczne przy nadciśnieniu.</string>
+<string id="260" name="kwas octowy">Konserwant. Stosowany również do produkcji aspiryny.</string>
+<string id="261" name="octan potasu">Konserwant i regulator kwasowości.</string>
+<string id="262" name="octan sodu">Konserwant i regulator kwasowości.</string>
+<string id="263" name="octan wapnia">Stosowany jako środek konserwujący.</string>
+<string id="270" name="kwas mlekowy">Występuje w skwaśniałym mleku, powstaje w mięsiniach w czasie intensywnego wysiłku fizycznego. Używany do regulacji kwasowości w przemyśle cukierniczym.</string>
+<string id="280" name="kwas propionowy">Stosowany w produkcji pieczywa. Może hamować tworzenie się cholesterolu.</string>
+<string id="281" name="propionian sodu">Środek antypleśniowy i antybakteryjny. Szybko ulega biodegradacji.</string>
+<string id="282" name="propionian wapnia">Stosowany jako środek konserwujący i antypleśniowy przy produkcji pieczywa.</string>
+<string id="284" name="kwas borowy" danger="true">Stosowany jako konserwant. Rozcieńczony roztwór tego kwasu jest stosowany jako środek dezynfekujący. Jego wydalanie z organizmu jest powolne. Skutkiem tego jest gromadzenie się preparatu w wątrobie oraz układzie nerwowym. Długotrwałe stosowanie kwasu borowego może prowadzić także do uszkodzenia nerek.</string>
+<string id="290" name="dwutlenek węgla">Jest składnikiem napojów gazowanych, tworzący się przy jego udziale kwas węglowy powoduje uczucie pieczenia podczas spożywania takich napojów.</string>
+<string id="296" name="kwas jabłkowy">Występuje w jabłkach. Stosowany jako konserwant.</string>
+<string id="297" name="kwas fumarowy">Stosowany jako lek w łuszczycy. Bierze udział w reakcjach utleniania.</string>
+<string id="310" name="galusan propylu" danger="true">Reakacje alergiczne, wysypka</string>
+<string id="311" name="galusan oktylu" danger="true">Reakacje alergiczne, wysypka. </string>
+<string id="312" name="galusan dodecylu" danger="true">Reakacje alergiczne, wysypka.</string>
+<string id="320" name="BHA" danger="true">Zwiększa poziom cholesterolu we krwi</string>
+<string id="321" name="BH" danger="true">Zwiększa poziom cholesterolu we krwi</string>
+<string id="330" name="kwas cytrynowy" danger="true">Możliwe działanie rakotwórcze.</string>
+<string id="335" name="winiany sodu" danger="true">Może działać przeczyszczająco.</string>
+<string id="336" name="winiany potasu" danger="true">Może działać przeczyszczająco.</string>
+<string id="338" name="kwas fosforowy" danger="true">Możliwe działanie zakłócające procesy trawienia.</string>
+<string id="339" name="odmiana kwasu ortofosforowego" danger="true">Możliwe działanie zakłócające procesy trawienia.</string>
+<string id="340" name="odmiana kwasu ortofosforowego" danger="true">Możliwe działanie zakłócające procesy trawienia.</string>
+<string id="341" name="odmiana kwasu ortofosforowego" danger="true">Możliwe działanie zakłócające procesy trawienia.</string>
+<string id="385" name="sól wapniowo-disodowa EDTA" danger="true">Możliwe działanie zakłócające procesy trawienia, niedobory żelaza, uszkodzenia nerek. Zabroniony w Australii.</string>
+<string id="400" name="kwas alginowy" danger="true">Obniżenie poziomu składników mineralnych w organizmie, niebezpieczny dla kobiet w ciąży.</string>
+<string id="401" name="Alginian sodu">Substancja żelująca uzyskiwana z alg brunatnic. Związek naturalny, nie zalecane stosowanie dużych dawek.</string>
+<string id="402" name="Alginian potasu">Związek naturalny pozyskiwany z wodorostów morskich. W bardzo dużych dawkach może wywoływac efekt przeczyszczający. </string>
+<string id="403" name="Alginian amonu">Związek występujący naturalnie, pozyskiwany z wodorostów morskich.</string>
+<string id="404" name="Alginian wapnia">Związek naturalny, wykazujący działanie zagęszczające i stabilizujące. Nie określono maksymalnej dopuszczalnej dawki.</string>
+<string id="405" name="Alginian glikolu propylenowego">Naturalny polisacharyd pozyskiwany z wodorostów morskich. Może wywoływać działanie alergenne, maksymalna dopuszczalna dawka to 70mg/kg masy ciała.</string>
+<string id="406" name="Agar">Naturalna substancja zagęszczająca pozyskiwana z wodorostów. Nie stwierdzono mozliwych zagrożeń dla zdrowia.</string>
+<string id="407" name="karagen" danger="true">Owrzodzenia układu pokarmowego, zmniejszenie wchłaniania składników mineralnych (np. potasu), działa przeczyszczająco. Nie powinien być spożywany przez dzieci.</string>
+<string id="410" name="Mączka chleba świętojańskiego">Naturalna substancja zagęszczająca, otrzymywana z nasion drzewa karobowego. Odpowiednia dla osób nie tolerujących glutenu.</string>
+<string id="412" name="Guma guar">Substancja"uważana" za nieszkodliwą, lecz po spożyciu mogą wystąpić reakcje alergiczne, wzdęcia czy biegunka. Pęcznieje w żołądku dając uczucie "sytości". Może być stosowana w leczeniu zaparć.</string>
+<string id="413" name="Tragakanta">Substancja naturalna pozyskiwana z drzewa traganka gumodajnego. Powszechnie stosowana jako dodatek do żywności. Mogą wystąpić reakcje alergiczne u osób wrażliwych (problemy z oddychaniem, zapalenie skóry).</string>
+<string id="414" name="Guma arabska">Naturalna substancja pozyskiwana m.in. z akacji senegalskiej. Źródło błonnika. Korzystnie wpływa na florę bakteryjną jelita grubego.</string>
+<string id="415" name="Guma ksantanowa (dekstran)">Natualna substancja zagęszczająca. Bogata w błonnik.</string>
+<string id="416" name="Guma karaya">Składnik naturalny używany do produkcji preparatów przeczyszczającaych, past do zębów, lakierów do włosów.</string>
+<string id="417" name="Guma tara">Składnik naturalny pozyskiwany z drzewa Cyaliniowego. Substancja powinna być stosowana w minimalnych ilościach aby uniknąć reakcji alergicznych.</string>
+<string id="418" name="Guma gellan">Substancja naturalna, posiadająca właściwości przeczyszczające.</string>
+<string id="420" name="Sorbitol" danger="true">Może powodować skurcze jelit oraz biegunkę. Nie zaleca się podawać dzieciom poniżej pierwszego roku życia.</string>
+<string id="421" name="Mannitol">Naturalna substancja pozyskiwana z drzew iglastych, grzybów i glukozy. Nie powinno się przekraczać spożywacia większego niż 160mg/kg masy ciała. Większe dawki moga powodować biegunkę.</string>
+<string id="422" name="Glicerol">Związek występujący naturalnie. Brak informacji na temat skutków ubocznych.</string>
+<string id="425" name="Konjac">Związek naturalny, możliwe działania obniżające poziom cholesterolu.</string>
+<string id="426" name="Hemiceluloza sojowa">Substancja naturalna otrzymywana z soi. Stosowana w niskokalorycznym pieczywie.</string>
+<string id="427" name="Guma kasja">Składnik pozyskiwany z roślin strączkowych. Stosowany w produkcji karmy dla zwierząt i deserów mlecznych.</string>
+<string id="430,431,432,433,434,435,436" name="Stearynian polioksyetylenu, monolaurynian polioksyetylenosorbitolu">Zagęszczacze otrzymywane z hydrolizy tłuszczu zwierzęcego, przez co mogą nie być odpowiednie dla wegetarian.</string>
+<string id="440" name="Pektyny">Substancje roślinne pozyskiwane m.in. z buraka cukrowego. Mogą być stosowane w leczeniu biegunki.</string>
+<string id="442" name="Fosfatydy amonu">Stosowane jako zamiennik lecytyny sojowej w produkcji czekolady, produkt pochodzenia roślinnego.</string>
+<string id="444" name="Octan izomaślanu sacharozy" danger="true">Związek syntetyczny, zakazany w Australii i Japonii. Może powodować uszkodzenie wątroby (zaobserwowane w testach na zwierzętach).</string>
+<string id="445" name="Estry glicerolu i żywicy roślinnej">Produkt pochodzenia roślinnego. Nie wykonano dostatecznej ilości badań klinicznych aby stwierdzić szkodliwość dla człowieka.</string>
+<string id="450,451,452" name="Di-, Tri-, Poli-fosforany" danger="true">Może zmiejszać przyswajalność żelaza, magnezu i wapnia, pogłębia osteoporozę, pogarsza metabolizm.</string>
+<string id="459" name="Beta-Cyklodekstryna">Środek zagęszczający uzyskiwany ze skrobi. Zastosowanie z produkcji leków.</string>
+<string id="460,462,463,464,465,468,469" name="Celuloza i pochodne">Substancje naturalne pochodzenia roślinnego. Nie ulegają przemianom w układzie pokarmowym.</string>
+<string id="461" name="Metyloceluloza" danger="true">Może wywołać problemy jelitowe, zaparcia, biegunkę.</string>
+<string id="466" name="Guma celulozowa" danger="true">Może powodować biegunkę i wzdęcia.</string>
+<string id="470" name="Sole sodowe, potasowe i wapniowe kwasów tłuszczowych">Stosowane do produkcji leków, mogą być szkodliwe w dużych dawkach.</string>
+<string id="471,472" name="Mono- i diglicerydy kwasów tłuszczowych">Syntetyczne tłuszcze stabilizujące. Nie stwierdzono szkodliwości.</string>
+<string id="473,474" name="Estry sacharozy i kwasów tłuszczowych">Substancje syntetyczne, w małych dawkach nieszkodliwe dla zdrowia.</string>
+<string id="475,476" name="Estry kwasów tłuszczowych i poliglicerolu">Uzyskiwane syntetycznie. Stosowane w piekarnictwie, produktach mlecznych. Nie stwierdzono szkodliwości.</string>
+<string id="477,478" name="Estry kwasów tłuszczowych i glikolu propylenowego">Natutalne środki zagęszczające.</string>
+<string id="479" name="Termoutleniony olej sojowy z mono- i diglicerydami kwasów tłuszczowych">Substancja zagęszczająca, bezpieczna w małych dawkach. Może nie być odpowiednia dla wegan ze względu na możliwe otrzymywanie przy pomocy tłuszczów zwierzęcych.</string>
+<string id="481,482,483,484,485,486" name="Stearoilomleczan sodu, wapnia, winian stearylu, ...">Substancje o zbliżonym składzie i zastosowaniu. Nie stwierdzono szkodliwości dla organizmu człowieka.</string>
+<string id="491,492,493,494,495,496" name="Monostearynian sorbitolu" danger="true">Podrażnienia jelit, biegunki. Może przyczyniać się do powstawania kamieni moczowych.</string>
+<string id="524" name="wodorotlenek sodu" danger="true">Środek o działaniu żrącym.</string>
+<string id="621" name="glutaminian sodu" danger="true">Może nasilać problemy astmatyczne, powodować bóle głowy, przyspieszone bicie serca, pogorszenie wzroku, nudności, bezsenność, osłabienie, otyłość.</string>
+<string id="622" name="glutaminian potasu" danger="true">bóle głowy, przyspieszone bicie serca, pogorszenie wzroku, nudności, bezsenność, osłabienie, otyłość.</string>
+<string id="631" name="inozydian sodu" danger="true">Niewskazany dla osób z kamicą nerkową.</string>
+<string id="951" name="aspartam" danger="true">Może powodować białaczkę, choroby układu nerwowego, raka płuc, raka piersi. Niewskazany dla osób z wrażliwym przewodem pokarmowym.</string>
+<string id="954" name="sacharyna" danger="true">Może powodować nowotwory pęcherza.</string>
+</additives>

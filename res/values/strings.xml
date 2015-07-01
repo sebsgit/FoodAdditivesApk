@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chemiczne dodatki do żywności</string>
+    <string name="search">Szukaj</string>
+    <string name="searchHere">Wpisz numer E ...</string>
+    <string name="bad_img_desc"></string>
+    <string name="selectOrEnter">Wpisz numer lub wybierz z listy aby wyświetlić informacje o składniku</string>
+    <string name="catColours">Barwniki</string>
+    <string name="catPreservatives">Konserwanty</string>
+    <string name="catAntioxidants">Przeciwutleniacze</string>
+    <string name="catStabilisers">Stabilizatory i zagęszczacze</string>
+	<string name="catRegulators">Stabilizatory pH i spulchniacze</string>
+	<string name="catEnchancers">Wzmacniacze smaku</string>
+	<string name="catAntibiotics">Antybiotyki</string>
+	<string name="catMisc">Różne (ulepszacze, sztuczne środki słodzące)</string>
+	<string name="catChemicals">Rozpuszczalniki, dodatki zapachowe</string>
+	<string name="catUnknown">(grupa nieznana)</string>
+	<string name="no_details">(brak szczegółowych danych)</string>
+	<string name="bad_number">(poprawne numery 100-1599)</string>
+	<string name="action_about">O programie</string>
+	<string name="text_about">Chemiczne Dodatki do Żywności, wersja 1.0.4
+        \nAutor: Theory-Driven Development
+        \ntheorydrivendevelopment@gmail.com
+        \n\nCopyright &#169; 2013</string>
+
+</resources>
